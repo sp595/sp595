@@ -1,0 +1,23 @@
+{
+    "name": "cmdc",
+    "version": "1.1.2",
+    "description": "Hello World I am samuel, A pseudo-introvert, A it solutioner and a maker",
+    "main": "index.js",
+    "scripts": {
+        "test": ""
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sp595/sp595.git"
+    },
+    "keywords": [
+        "cmdc",
+        "sp595"
+    ],
+    "author": "cmdc business",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/sp595/sp595/issues"
+    },
+    "homepage": "https://github.com/sp595/sp595#readme"
+}
